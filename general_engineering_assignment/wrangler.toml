@@ -1,0 +1,6 @@
+name = "gse-chllnge"
+type = "javascript"
+account_id = "af62c30f4d94e79b9bf3ced7c45689de"
+workers_dev = true
+route = ""
+zone_id = ""
