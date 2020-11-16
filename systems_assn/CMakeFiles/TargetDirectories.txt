@@ -1,0 +1,3 @@
+/home/cam/Documents/cloudflare/CMakeFiles/rebuild_cache.dir
+/home/cam/Documents/cloudflare/CMakeFiles/edit_cache.dir
+/home/cam/Documents/cloudflare/CMakeFiles/CloudFlare_Systems_Assn.dir
